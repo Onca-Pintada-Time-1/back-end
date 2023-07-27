@@ -3,5 +3,14 @@ pydantic>=1.8.0,<2.0.0
 uvicorn>=0.15.0,<0.16.0
 pandas>=1.3.0,<2.0.0
 scikit-learn==1.2.2
-imblearn
+imblearn~=0.0
 requests
+sklearn~=0.0.post5
+xgboost~=1.7.6
+joblib~=1.3.1
+anyio~=3.3.0
+pytest-asyncio
+pytest-tornasync
+pytest-trio
+pytest-twisted
+twisted
